@@ -1,0 +1,37 @@
+.counter-box{
+    width:500px;
+    height: 500px;
+    border: 3px solid black;
+    margin: 0px 200px 200px 400px;
+}
+.btn-box {
+  width: 300px;
+  height: 60px;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 50px;
+  margin-top: 150px;
+  margin-left: 100px;
+  padding-top: 30px;
+}
+button{
+  width: 100px;
+  height: 50px;
+  text-align: center;
+  font-size: 20px;
+}
+center{
+  margin-top:50px;
+  font-size:30px;
+}
+.outer-div{
+  width: 300px;
+  height:100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 500px;
+  margin-bottom: 30px;
+}
+
+
